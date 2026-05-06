@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Entorno virtual
+venv/
+env/
+
+# Django
+*.log
+db.sqlite3
+media/
+
+# VSCode
+.vscode/
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Archivos sensibles
+.env
+
+# Migraciones compiladas
+*.pyc
+
+# Coverage
+.coverage
+htmlcov/
